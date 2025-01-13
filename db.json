@@ -1,0 +1,111 @@
+{
+  "currentUser": {
+    "id": "",
+    "name": ""
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "password": "peppermint",
+      "isLoggedIn": "false"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "password": "strawberries",
+      "isLoggedIn": "false"
+    },
+    {
+      "id": "b8a77b9e-1417-43ec-afeb-95bf71f48940",
+      "name": "Hallo ",
+      "password": "Ola",
+      "isLoggedIn": true
+    },
+    {
+      "id": "3356b9da-15fe-4ab6-87d6-af56dfb2a957",
+      "name": "Albert Einstein",
+      "password": "peppermint",
+      "isLoggedIn": true
+    },
+    {
+      "id": "e4bd48d0-f922-48c9-8def-61e71ce69a99",
+      "name": "Arvid",
+      "password": "dsadsadsad",
+      "isLoggedIn": true
+    },
+    {
+      "id": "7351ffe6-d85e-447c-96fa-7851ba3422fd",
+      "name": "Hund",
+      "password": "arvid",
+      "isLoggedIn": true
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "userID": "2",
+      "status": "Incoming",
+      "title": "Task 1",
+      "description": "Description for Task 1",
+      "body": "Lorem Ipsum"
+    },
+    {
+      "id": "3fcdc789-005f-4b0c-8fe7-7a19c94b5c2f",
+      "userID": "e4bd48d0-f922-48c9-8def-61e71ce69a99",
+      "status": "Done",
+      "title": "Saumutter",
+      "description": "akakak",
+      "body": "akakak"
+    },
+    {
+      "id": "17f1"
+    },
+    {
+      "id": "c002"
+    },
+    {
+      "id": "a288"
+    },
+    {
+      "id": "6fe5e50f-3c34-45bd-ae22-d2fa5df4a233",
+      "userID": "2",
+      "status": "Working",
+      "title": "Hallo",
+      "description": "dadsa",
+      "body": "dsad"
+    },
+    {
+      "id": "cc122c6d-6368-4fae-b116-f5db1343ec23",
+      "userID": "1",
+      "status": "Incoming",
+      "title": "dsadsadsa",
+      "description": "dsadsadsa",
+      "body": "dsadsa"
+    },
+    {
+      "id": "a575d12a-6c04-4ee4-a0be-662f69a18b7c",
+      "userID": "1",
+      "status": "Incoming",
+      "title": "Hallo",
+      "description": "Welt",
+      "body": "Test"
+    },
+    {
+      "id": "2c830a7e-4c63-4b26-ab24-b92055f1a5c4",
+      "userID": "1",
+      "status": "Incoming",
+      "title": "dsad",
+      "description": "dsa",
+      "body": "dsadsadasdsad\nsdadasdasdasdsadsad\ndsadadsadsadsadasd\ndsadsadasdsadsadsa"
+    },
+    {
+      "id": "36c6f33f-09a4-4a68-892a-a6d902ee1b47",
+      "userID": "2",
+      "status": "Incoming",
+      "title": "Hallo",
+      "description": "Test",
+      "body": "hallo\ntest"
+    }
+  ]
+}
